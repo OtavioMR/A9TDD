@@ -4,5 +4,9 @@ node_modules/
 build/
 coverage/
 .DS_Store
+.vercel/
 Aula 10 - TDD_guia_de_execucao.pdf
 *.docx
+create_docs.py
+generate_evidence_screens.py
+evidencias/
