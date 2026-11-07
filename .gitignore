@@ -1,0 +1,8 @@
+.env
+.env.local
+node_modules/
+build/
+coverage/
+.DS_Store
+Aula 10 - TDD_guia_de_execucao.pdf
+*.docx
